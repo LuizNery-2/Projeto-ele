@@ -1,0 +1,38 @@
+body
+{
+  width: 100%;
+  height: 100%;
+}
+.menuPrincipal
+{  
+    background-color: rgb(231, 33, 121);
+    width: 100%;
+    height: 100px;
+  
+}
+
+.logo
+{    
+     float:  left;
+    width: 60%;
+     
+}
+
+main
+{ margin:  0 auto;
+  width: 980px;
+  position: relative;
+
+}
+.linkpags ul li{ 
+    margin-left: 8px;
+    display: inline;
+    float: left;
+    list-style: none;
+
+}
+.linkpags{
+    padding: 8px;
+    width: 30%;
+    float: left;
+}
